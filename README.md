@@ -18,6 +18,10 @@ Thanks for checking out my first attempt at shortcuts and github! Sofar, i have 
 
 _Note: Shortcuts doesn't currently have a glyph for Uber so I used the Pied Piper symbol cuz it makes me chuckle and I love the show Silicon Valley 😊_
 
+### Generate QR Code for Currently Playing Track
+
+**What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne. 
+
 * * *
 
-Feel free to customize to your own preferences! And if you have any cool ideas or recommendations don't hesitate to let me know! 
+Feel free to customize to your own preferences! And if you have any cool ideas or recommendations don't hesitate to let me know!
