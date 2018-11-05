@@ -33,6 +33,10 @@ cd ~/Downloads
 youtube-dl “$1”
 ```
 
+### README-Gen
+
+**What it does:** Prompts you for input to generate a basic README.md file for your project! Its pretty basic for now, and will work on setting more variable customizations and support for initializing into WorkingCopy.
+
 * * *
 
 Feel free to customize to your own preferences! And if you have any cool ideas or recommendations don't hesitate to let me know!
