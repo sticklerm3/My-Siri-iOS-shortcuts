@@ -23,6 +23,10 @@ _Note: Shortcuts doesn't currently have a glyph for Uber so I used the Pied Pipe
 **What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.
 
 
+### README-Gen
+
+**What it does:** Prompts you for input to generate a basic README.md file for your project! Its pretty basic for now, and will work on setting more variable customizations and support for initializing into WorkingCopy.
+
 * * *
 
 Feel free to customize to your own preferences! And if you have any cool ideas or recommendations don't hesitate to let me know!
