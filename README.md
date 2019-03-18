@@ -32,7 +32,16 @@ _Note: Shortcuts doesn't currently have a glyph for Uber so I used the Pied Pipe
 
 [⬇️Download](https://www.icloud.com/shortcuts/a90c54c2dd6747efa30217363e586b59)
 
-## 🙅‍♀️ Crack is Whack ☠️
+## Misc
+
+### Backup Shortcuts
+
+Gets all your shortcuts & creates an archive with the title  `Backups-<date>.zip` and saves them in either iCloud or Dropbox. 
+
+[Zip-to-Dropbox ⬇️Download](https://www.icloud.com/shortcuts/431323d7a134482da00df878717c9005)
+[Zip-to-iCloud ⬇️Download](https://www.icloud.com/shortcuts/193b9be0bea84daaaa7686ad78b95bac)
+
+### 🙅‍♀️ Crack is Whack ☠️
 
 **What it does:** Summons Whitney from today view to remind people that crack is whack! 
 
@@ -58,14 +67,6 @@ _Note: Shortcuts doesn't currently have a glyph for Uber so I used the Pied Pipe
 ### 📓 DayOne entry of currently listening 🎧
 
 Studying existing shortcuts & experimenting with app integrations to make my entry in one click, instead of 3.... Cuz, you know, we gotta turn it up to 11 🎚!
-
-## ☠️ Scrapped ⚰️ 
-
-### 🔑 ssh-ytdl 📺 
-
-_Attempted to run a script over SSH to have your download ready when you get home._ 
-
-Apple's lack of documentation of configuring setup drove me nuts though. (So much for it just works 🙄). The description makes it sound like it would run from the shortcut, but it wouldn't run in testing. I assume you probably need to add a step which integrates into a SSH enabled app, but my favorite, [openterm](https://github.com/louisdh/openterm) was killed (⚰️[R.I.P.](https://twitter.com/louisdhauwe/status/1052003267612299266?s=21)) Plus, [MediaGrabber](https://github.com/MediaGrabber/iOS-Workflow) pretty much already accomplishes this, just not over SSH. I still may revisit it just for sake of saving one's phones bandwidth.  Working on other shortcuts in the meantime to learn more how they function.  
 
 * * * 
 
