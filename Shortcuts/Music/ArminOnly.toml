@@ -1,0 +1,113 @@
+[[action]]
+text = "This Shortcut was written in toml and compiled with Python-Shortcuts\nFor more information go to https://pypi.org/project/python-shortcuts/"
+type = "comment"
+
+[[action]]
+text = "Turn Your World into a Dance Floor!"
+type = "comment"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+menu_items = [ "76", "Shivers", "Imagine", "Mirage", "Intense", "Embrace", "Armin Only (Best Of)", "Universal Religion: Chapter 4", "Universal Religion: Chapter 5", "Universal Religion: Chapter 7", ]
+type = "start_menu"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "76"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/76/129938048"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Shivers"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/shivers/78991539"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Imagine"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/imagine/1386622064"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Mirage"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/mirage-deluxe-edition/478738847"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Intense"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/intense-the-more-intense-edition-bonus-track-version/735306228"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Embrace"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/embrace/1044569985"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Armin Only (Best Of)"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/the-best-of-armin-only/1231948296"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Universal Religion: Chapter 4"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/universal-religion-chapter-4-mixed-by-armin-van-buuren/329480093"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Universal Religion: Chapter 5"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/universal-religion-chapter-5-recorded-live-at-space/1017310245"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+title = "Universal Religion: Chapter 7"
+type = "menu_item"
+
+[[action]]
+url = "https://itunes.apple.com/us/album/universal-religion-chapter-7-recorded-live-at-privilege/1016071084"
+type = "url"
+
+[[action]]
+group_id = "34C883A0-4482-4722-9975-D0768EA541AD"
+type = "end_menu"
+
+[[action]]
+type = "open_url"
+
+[[action]]
+text = "Made with love by Matt Stickler\nGitHub.com/Sticklerm3\n@Sticklerm3"
+type = "comment"

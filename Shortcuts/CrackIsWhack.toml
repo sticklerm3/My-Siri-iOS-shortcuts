@@ -1,0 +1,10 @@
+[[action]]
+text = "Made by Matt Stickler\nGitHub.com/Sticklerm3\n@Sticklerm3"
+type = "comment"
+
+[[action]]
+url = "https://youtu.be/LpJeIpcre7A"
+type = "url"
+
+[[action]]
+type = "open_url"
