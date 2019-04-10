@@ -67,18 +67,6 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 
 [⬇️ Download](https://www.icloud.com/shortcuts/25966278e7ca498f8bb75b19b16cc715)
 
-#### to-do
-
-- create prompt for username, email, & Twitter & GitHub username and repo for contributing section
-- license selector
-- create prompt for where to save readme
-  - current options available in shortcuts re Dropbox & iCloud
-  - look into a version to add to WorkingCopy app
-
-### DayOne entry of currently listening
-
-Studying existing shortcuts & experimenting with app integrations to make my entry in one click, instead of 3... Cuz, you know, we gotta turn it up to 11 🎚!
-
 ---
 
 ## Contributing
@@ -95,8 +83,9 @@ Feel free to use these shortcuts and customize to your own preferences! And if y
 - [Python-Shortcuts](https://pypi.org/project/python-shortcuts/)
 - [Pythonista 3](http://omz-software.com/pythonista/)
   - [Pythonista 3 on the App Store](https://itunes.apple.com/us/app/pythonista-3/id1085978097?mt=8)
+  -
 
-### Shortcuts Community
+### Misc
 
 - [r/Shortcuts](https://www.reddit.com/r/shortcuts/?st=JQ5QCF4J&sh=3ce77f3a)
   - [r/Shortcuts:wiki](https://www.reddit.com/r/shortcuts/wiki/index?st=JQ5QEB1V&sh=a51658ee)
