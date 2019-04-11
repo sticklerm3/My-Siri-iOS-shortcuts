@@ -11,9 +11,8 @@ pipelines:
         caches:
           - bundler
         script: # Modify the commands below to build your repository.
-          - gem install awesome_bot
+          - bundle install --path vendor/bundle
           - awesome_bot *.md
-          - bundle install
 
 definitions:
   caches:
