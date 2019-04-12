@@ -13,7 +13,7 @@ You can download this repo to [Working Copy](https://itunes.apple.com/us/app/wor
 ### Signing Online - Uber
 
 **Siri command:** "Hey Siri, I have a passenger"  
-**What it does:** Plays Duran Duran Radio, Toggles DND on, sets display brightness to a generally tolerable level (except in bright sunlight), sets system volume to high and launches the Uber Driver app in case you had a different application open. I updated the shortcut to toggle WiFi off because when connecting to an open network, (say the phone connects to a Starbucks when at a light) trips may fail to accept while your phone may not have disconnected from the network yet and lose the ride.
+**What it does:**Plays Duran Duran Radio, Toggles DND on, sets display brightness to a generally tolerabble level (except in bright sunlight), sets system volume to high and launces the Uber Driver app in case you had a different application open. I updated the shortcut to toggle WiFi off because when connecting to an open network, (say the phone connects to a starbucks when at a light) trips may fail to accept while your phone may not have disconnected from the network yet and lose the ride.
 
 [⬇️ Download](https://www.icloud.com/shortcuts/7b73a63bd55f4cc388b97988df6a3c32)
 
@@ -31,6 +31,7 @@ _Note: ~~Shortcuts doesn’t currently have a glyph for Uber so I used the Pied 
 ### Zip to iCloud or Dropbox
 
 Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip` and saves them in either iCloud or Dropbox. Especially handy for quickly transferring to your computer so mess with python-shortcuts and Shortcuts JS with!
+**What it does:** Plays podcasts, toggles DND off, and opens Waze, my preferred navigation app.
 
 [Zip-to-Dropbox ⬇️ Download](https://www.icloud.com/shortcuts/431323d7a134482da00df878717c9005)
 [Zip-to-iCloud ⬇️ Download](https://www.icloud.com/shortcuts/193b9be0bea84daaaa7686ad78b95bac)
@@ -45,8 +46,7 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 
 ### 🎶 Generate QR Code for Currently Playing Track 🎧
 
-**What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.
-
+**What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.  
 [⬇️ Download](https://www.icloud.com/shortcuts/a90c54c2dd6747efa30217363e586b59)
 
 ## Misc Shortcuts
@@ -58,22 +58,6 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 [⬇️ Download](https://www.icloud.com/shortcuts/d14046f886494633a0f7204850626e7e)
 
 ---
-
-## _in-progress_
-
-### README-Gen
-
-**What it does:** Prompts you for input to generate a basic `README.md` file for your project! It's pretty basic for now and will work on setting more customizations and support for initializing into WorkingCopy.
-
-[⬇️ Download](https://www.icloud.com/shortcuts/25966278e7ca498f8bb75b19b16cc715)
-
-#### to-do
-
-- create prompt for username, email, & Twitter & GitHub username and repo for contributing section
-- license selector
-- create prompt for where to save readme
-  - current options available in shortcuts re Dropbox & iCloud
-  - look into a version to add to WorkingCopy app
 
 ### DayOne entry of currently listening
 
@@ -103,4 +87,4 @@ Feel free to use these shortcuts and customize to your own preferences! And if y
 - [PowitOfficial/sirishortcuts](https://github.com/PowitOfficial/sirishortcuts)
 - [afrex/iOS-shortcuts](https://github.com/afrex/iOS-shortcuts)
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory)
-- [joshhighet/SiriShortcuts](https://github.com/joshhighet/SiriShortcuts)
+- [joshhighet](https://github.com/joshhighet/SiriShortcuts)
