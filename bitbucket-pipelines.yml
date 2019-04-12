@@ -12,7 +12,7 @@ pipelines:
           - bundler
         script: # Modify the commands below to build your repository.
           - bundle install --path vendor/bundle
-          - awesome_bot *.md
+          - awesome_bot README.md --allow-dupe
 
 definitions:
   caches:

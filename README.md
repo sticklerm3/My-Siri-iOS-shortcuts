@@ -6,7 +6,7 @@ Thanks for checking out my first attempt at shortcuts for iOS! So far, I have a 
 
 ## Installation
 
-You can download this repo to [Working Copy](https://itunes.apple.com/us/app/working-copy/id896694807?mt=8) and open the binary file using the sharing option (I find the best luck from the Files app) or click/copy the iCloud URL to open in Shortcuts.app and save to your device. I've added `.toml` files, where available, which can be used with [python-shortcuts](https://pypi.org/project/python-shortcuts) in case you want to customize, edit or borrow snippets for use in a text editor and compile them yourself!
+You can download this repo to [Working Copy][bf01a08f] and open the binary file using the sharing option (I find the best luck from the Files app) or click/copy the iCloud URL to open in Shortcuts.app and save to your device. I've added `.toml` files, where available, which can be used with [python-shortcuts][40d65457] in case you want to customize, edit or borrow snippets for use in a text editor and compile them yourself!
 
 ## Shortcuts:
 
@@ -69,16 +69,27 @@ Feel free to use these shortcuts and customize to your own preferences! And if y
 
 ### Creating shortcuts
 
-- [Shortcuts JS](https://shortcuts.fun)
-- [Python-Shortcuts](https://pypi.org/project/python-shortcuts/)
-- [Pythonista 3](http://omz-software.com/pythonista/)
+- [Shortcuts JS][513d0b26]
+- [Python-Shortcuts][40d65457]
+  - [Pythonista 3][c040d3d5] - Use Python on iOS!
   - [Pythonista 3 on the App Store](https://itunes.apple.com/us/app/pythonista-3/id1085978097?mt=8)
 
 ### Shortcuts Community
 
-- [r/Shortcuts](https://www.reddit.com/r/shortcuts/?st=JQ5QCF4J&sh=3ce77f3a)
-  - [r/Shortcuts:wiki](https://www.reddit.com/r/shortcuts/wiki/index?st=JQ5QEB1V&sh=a51658ee)
-- [PowitOfficial/sirishortcuts](https://github.com/PowitOfficial/sirishortcuts)
-- [afrex/iOS-shortcuts](https://github.com/afrex/iOS-shortcuts)
-- [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory)
-- [joshhighet/SiriShortcuts](https://github.com/joshhighet/SiriShortcuts)
+- [r/Shortcuts][5edb4a33]
+  - [r/Shortcuts:wiki][c9413eef]
+- [PowitOfficial/sirishortcuts][7cbfe5b2]
+- [afrex/iOS-shortcuts][70653e8e]
+- [jordanmerrick/shortcutsdirectory][014c8c40]
+- [joshhighet/SiriShortcuts][de6c8f26]
+
+[513d0b26]: https://shortcuts.fun "Shortcuts JS"
+[40d65457]: https://pypi.org/project/python-shortcuts/ "Python-Shortcuts"
+[c040d3d5]: http://omz-software.com/pythonista/ "Pythonista 3"
+[5edb4a33]: https://www.reddit.com/r/shortcuts/?st=JQ5QCF4J&sh=3ce77f3a "r/Shortcuts"
+[c9413eef]: https://www.reddit.com/r/shortcuts/wiki/index?st=JQ5QEB1V&sh=a51658ee "r/Shortcuts:wiki"
+[7cbfe5b2]: https://github.com/PowitOfficial/sirishortcuts "PowitOfficial/sirishortcuts"
+[70653e8e]: https://github.com/afrex/iOS-shortcuts "afrex/iOS-shortcuts"
+[014c8c40]: https://github.com/jordanmerrick/shortcutsdirectory "jordanmerrick/shortcutsdirectory"
+[de6c8f26]: https://github.com/joshhighet/SiriShortcuts "joshhighet/SiriShortcuts"
+[bf01a08f]: https://itunes.apple.com/us/app/working-copy/id896694807?mt=8 "Working Copy on the App Store!"
