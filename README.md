@@ -2,7 +2,7 @@
 
 > Just some shortcuts for iOS I wanted to share.
 
-Thanks for checking out my first attempt at shortcuts and GitHub! So far, I have a few that I’ve made. The first two I'm sharing I made for when I drive for Uber. When I accept a new passenger I always find myself doing the same tasks so I set these up to automate the process. The music one I made to make a QR code for songs in apple music, for sharing with friends and for my DayOne journal, hopefully, DayOne shortcuts coming soon!
+Thanks for checking out my first attempt at shortcuts for iOS! So far, I have a few that I’ve made. The first two I'm sharing I made for when I drive for Uber. When I accept a new passenger I always find myself doing the same tasks so I set these up to automate the process. The music one I made to make a QR code for songs in apple music, for sharing with friends and for my DayOne journal, hopefully, DayOne shortcuts coming soon!
 
 ## Installation
 
@@ -43,7 +43,7 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 
 [⬇️ Download](https://www.icloud.com/shortcuts/e40a76c8852747269a7e1d782c95d695)
 
-### 🎶 Generate QR Code for Currently Playing Track 🎧
+### Generate QR Code for Currently Playing Track 🎧
 
 **What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.
 
@@ -56,28 +56,6 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 **What it does:** Summons Whitney from today view to remind people that crack is whack!
 
 [⬇️ Download](https://www.icloud.com/shortcuts/d14046f886494633a0f7204850626e7e)
-
----
-
-## _in-progress_
-
-### README-Gen
-
-**What it does:** Prompts you for input to generate a basic `README.md` file for your project! It's pretty basic for now and will work on setting more customizations and support for initializing into WorkingCopy.
-
-[⬇️ Download](https://www.icloud.com/shortcuts/25966278e7ca498f8bb75b19b16cc715)
-
-#### to-do
-
-- create prompt for username, email, & Twitter & GitHub username and repo for contributing section
-- license selector
-- create prompt for where to save readme
-  - current options available in shortcuts re Dropbox & iCloud
-  - look into a version to add to WorkingCopy app
-
-### DayOne entry of currently listening
-
-Studying existing shortcuts & experimenting with app integrations to make my entry in one click, instead of 3... Cuz, you know, we gotta turn it up to 11 🎚!
 
 ---
 
