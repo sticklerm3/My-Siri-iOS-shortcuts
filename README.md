@@ -2,7 +2,7 @@
 
 > Just some shortcuts for iOS I wanted to share.
 
-Thanks for checking out my first attempt at shortcuts and GitHub! So far, I have a few that I’ve made. The first two I'm sharing I made for when I drive for Uber. When I accept a new passenger I always find myself doing the same tasks so I set these up to automate the process. The music one I made to make a QR code for songs in apple music, for sharing with friends and for my DayOne journal, hopefully, DayOne shortcuts coming soon!
+Thanks for checking out my first attempt at shortcuts for iOS! So far, I have a few that I’ve made. The first two I'm sharing I made for when I drive for Uber. When I accept a new passenger I always find myself doing the same tasks so I set these up to automate the process. The music one I made to make a QR code for songs in apple music, for sharing with friends and for my DayOne journal, hopefully, DayOne shortcuts coming soon!
 
 ## Installation
 
@@ -13,7 +13,7 @@ You can download this repo to [Working Copy](https://itunes.apple.com/us/app/wor
 ### Signing Online - Uber
 
 **Siri command:** "Hey Siri, I have a passenger"  
-**What it does:**Plays Duran Duran Radio, Toggles DND on, sets display brightness to a generally tolerabble level (except in bright sunlight), sets system volume to high and launces the Uber Driver app in case you had a different application open. I updated the shortcut to toggle WiFi off because when connecting to an open network, (say the phone connects to a starbucks when at a light) trips may fail to accept while your phone may not have disconnected from the network yet and lose the ride.
+**What it does:** Plays Duran Duran Radio, Toggles DND on, sets display brightness to a generally tolerable level (except in bright sunlight), sets system volume to high and launches the Uber Driver app in case you had a different application open. I updated the shortcut to toggle WiFi off because when connecting to an open network, (say the phone connects to a Starbucks when at a light) trips may fail to accept while your phone may not have disconnected from the network yet and lose the ride.
 
 [⬇️ Download](https://www.icloud.com/shortcuts/7b73a63bd55f4cc388b97988df6a3c32)
 
@@ -31,7 +31,6 @@ _Note: ~~Shortcuts doesn’t currently have a glyph for Uber so I used the Pied 
 ### Zip to iCloud or Dropbox
 
 Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip` and saves them in either iCloud or Dropbox. Especially handy for quickly transferring to your computer so mess with python-shortcuts and Shortcuts JS with!
-**What it does:** Plays podcasts, toggles DND off, and opens Waze, my preferred navigation app.
 
 [Zip-to-Dropbox ⬇️ Download](https://www.icloud.com/shortcuts/431323d7a134482da00df878717c9005)
 [Zip-to-iCloud ⬇️ Download](https://www.icloud.com/shortcuts/193b9be0bea84daaaa7686ad78b95bac)
@@ -44,9 +43,10 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 
 [⬇️ Download](https://www.icloud.com/shortcuts/e40a76c8852747269a7e1d782c95d695)
 
-### 🎶 Generate QR Code for Currently Playing Track 🎧
+### Generate QR Code for Currently Playing Track 🎧
 
-**What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.  
+**What it does:** What the title says. I started with the apple shortcut to get the URL for a playing track and worked with it to create a QR code for easy sharing and to add to my journals in DayOne.
+
 [⬇️ Download](https://www.icloud.com/shortcuts/a90c54c2dd6747efa30217363e586b59)
 
 ## Misc Shortcuts
@@ -56,12 +56,6 @@ Gets all your shortcuts & creates an archive with the title `Backups-<date>.zip`
 **What it does:** Summons Whitney from today view to remind people that crack is whack!
 
 [⬇️ Download](https://www.icloud.com/shortcuts/d14046f886494633a0f7204850626e7e)
-
----
-
-### DayOne entry of currently listening
-
-Studying existing shortcuts & experimenting with app integrations to make my entry in one click, instead of 3... Cuz, you know, we gotta turn it up to 11 🎚!
 
 ---
 
@@ -87,4 +81,4 @@ Feel free to use these shortcuts and customize to your own preferences! And if y
 - [PowitOfficial/sirishortcuts](https://github.com/PowitOfficial/sirishortcuts)
 - [afrex/iOS-shortcuts](https://github.com/afrex/iOS-shortcuts)
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory)
-- [joshhighet](https://github.com/joshhighet/SiriShortcuts)
+- [joshhighet/SiriShortcuts](https://github.com/joshhighet/SiriShortcuts)
