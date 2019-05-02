@@ -10,10 +10,10 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- script: gem install awesome_bot
+  displayName: 'Installing awesome_bot'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+    awesome_bot README.md --allow-dupe
+    echo "Checking Links"
+  displayName: 'awesome_bot'
