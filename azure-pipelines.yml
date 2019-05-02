@@ -23,6 +23,5 @@ steps:
 variables:
   whitelist: 'gist.github.com,icloud.com'
   
-steps:
 - script: awesome_bot --allow-dupe --allow-redirect -w $(whitelist)
   displayName: 'Verifying links'
