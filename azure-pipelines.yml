@@ -10,10 +10,19 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- script: gem install awesome_bot
-  displayName: 'Installing awesome_bot'
-
+- task: UseRubyVersion@0
+  inputs:
+    versionSpec: '>= 2.4'
+    addToPath: true
+    
 - script: |
-    awesome_bot README.md --allow-dupe
-    echo "Checking Links"
-  displayName: 'awesome_bot'
+    CALL gem install bundler
+    bundle install --retry=3 --jobs=4
+  displayName: 'bundle install'
+
+variables:
+  whitelist: 'gist.github.com,icloud.com'
+  
+steps:
+- script: awesome_bot --allow-dupe --allow-redirect -w $(whitelist)
+  displayName: 'Verifying links'
